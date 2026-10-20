@@ -3,6 +3,8 @@
 
 红果短剧扫描播放器
 
+Release：https://github.com/laoyu20032003/guoguo/releases
+
 ![alt text](images/main.jpg)
 
 ![alt text](images/set.jpg)
